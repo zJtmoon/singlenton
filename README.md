@@ -1,0 +1,2 @@
+# singlenton
+单例
